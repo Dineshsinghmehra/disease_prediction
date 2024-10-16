@@ -1,0 +1,1 @@
+This project uses a Convolutional Neural Network (CNN) to detect malaria from microscopic images of red blood cells. Malaria is a life-threatening disease caused by Plasmodium parasites. Identifying infected cells using deep learning can aid in quick and accurate diagnosis, improving patient outcomes and reducing workload for medical professionals.
